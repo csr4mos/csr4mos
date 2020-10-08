@@ -8,7 +8,7 @@
 
 Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span>.
 
-Quando não estou **Gerenciando Projetos**, **programando**, lendo ou escrevendo documentação de **softwares**, ouço um pouco de música na **Antena 1**, novidades e lançamentos de **hip hop** no Youtube e mantenho-me infomado sobre notícias do dia-a-dia e do esporte, na **Radio Gaúcha**. 
+Quando não estou **Gerenciando Projetos**, lendo, escrevendo documentação de **softwares** ou **programando**,  ouço um pouco de música dos ano **70,80,90**, novidades e lançamentos de **hip hop** no Youtube e mantenho-me infomado sobre **notícias** do dia-a-dia e **do esporte**, na minha rádio preferida. 
 
 Nos finais de semana gosto de cozinhar ou assar um bom churrasco. 
 
