@@ -29,14 +29,13 @@ I'm a Front-end Typescript Developer from Brazil 💚, **40 years old** 👶🏻
 
 **Languages and Tools:**  
 
-> GPL v3 [ GNU Public License ](http://www.gnu.org/licenses/gpl-3.0.html)
-> <img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img height="64" src="https://commons.wikimedia.org/wiki/File:PHP-logo.svg">
+<img height="64" src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg">
+<img height="64" src="https://commons.wikimedia.org/wiki/File:C_Sharp_logo.svg">
+<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
+<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
+<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
+
 
 ----
 
