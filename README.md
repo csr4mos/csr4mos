@@ -28,7 +28,7 @@ Entre em contato, chame no WhatsApp : <code><a href="https://wa.me/5551998866296
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/css3.svg" title="CSS3"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/html5.svg" title="HTML5"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/bootstrap.svg" title="Framework Bootstrap"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/bcosca/fatfree/master/ui/images/logo.png" title="Framework Bootstrap"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/bcosca/fatfree/master/ui/images/logo.png" title="Fat Free Framework"></code>
 
 ----
 
