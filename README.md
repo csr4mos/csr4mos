@@ -1,3 +1,4 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csr4mos)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 **csr4mos/csr4mos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
