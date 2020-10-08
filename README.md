@@ -6,7 +6,7 @@
 ```
 ---- 
 
-Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
+Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do Brasil :heart:.
 
 Quando não estou **Gerenciando Projetos**, **programando**,  ou lendo documentações de **softwares**, ouço um pouco de música na **Antena 1**. 
 
