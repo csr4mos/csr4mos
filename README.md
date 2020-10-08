@@ -4,6 +4,16 @@
   echo 'Hello World, I'm Cristiano Ramos !';
 
 ```
+---- 
+
+> Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
+
+> Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1**. 
+
+> Nos finais de semana gosto de cozinhar.
+
+----
+**Encontre-me nas Redes Sociais**  
 
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" ="Meu Perfil no Linkedin">
@@ -19,15 +29,6 @@
 </a>
 
 </br>
-
----- 
-
-> Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
-
-> Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1**. 
-
-Nos finais de semana gosto de cozinhar.
-----
 
 **Linguagens de Programação e de Marcação**  
 
