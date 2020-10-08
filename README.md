@@ -1,5 +1,9 @@
-### 👋 Hello World, I'm Cristiano Ramos !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+```php
+<?php
+  echo 'Hello World, I'm Cristiano Ramos !';
 
+?>
+```
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" ="Meu Perfil no Linkedin">
 </a>
@@ -17,9 +21,9 @@
 
 ---- 
 
-Meu nome é **Cristiano Ramos**, sou um jovem da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚. <br>Me apaixonei por informática, por volta dos anos 2000, quando comprei meu primeiro PC. Era um glorioso K6II 500MHZ com 64 MB de memória, uma máquina pra época.  👶🏻 and **7 years of coding** 🧐. 
+Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚.
 
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
+**Gosto de ler livros de empreendedorismo** 📕, **ouço hip hop** 🎸 e de vez em quando tento passar alguma **fase** 🎮 do **Mario World** 🗡. 
 
 * ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
@@ -48,4 +52,4 @@ Meu nome é **Cristiano Ramos**, sou um jovem da geração dos anos **80**, moro
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr4mos&show_icons=true)
+![Cristiano Ramos GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr4mos&show_icons=true)
