@@ -29,11 +29,11 @@ I'm a Front-end Typescript Developer from Brazil 💚, **40 years old** 👶🏻
 
 **Languages and Tools:**  
 
-<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
-<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg">
-<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
-<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
-<img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg">
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
 
 
 ----
