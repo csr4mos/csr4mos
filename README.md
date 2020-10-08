@@ -6,7 +6,7 @@
 ```
 ---- 
 
-Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do Brasil :heart:.
+Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span>.
 
 Quando não estou **Gerenciando Projetos**, **programando**,  ou lendo documentações de **softwares**, ouço um pouco de música na **Antena 1**. 
 
@@ -34,6 +34,7 @@ Entre em contato, chame no WhatsApp : <code><a href="https://wa.me/5551998866296
 
 **Ferramentas de Desenvolvimento e Gestão de Projetos**  
 
+<code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/trello.svg" title="Trello"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/bitbucket.svg" title="Bitbucket"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" title="Github"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/docker.svg" title="Docker"></code>
