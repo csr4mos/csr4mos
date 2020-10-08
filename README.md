@@ -1,13 +1,16 @@
 ### 👋 Hello World, I'm Cristiano Ramos !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" ="Meu Perfil no Linkedin">
+</a>
+<a target="_blank" href="https://www.behance.net/CSR4mos">
+  <img height="64" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/behance.svg" ="Meu Perfil no Behance">
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5551998866296">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/whatsapp.svg" title="Chame no WhatsApp">
 </a>
 <a target="_blank" href="mailto:csramos.poa@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img height="64" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email">
 </a>
 
 </br>
@@ -29,10 +32,10 @@ I'm a Front-end Typescript Developer from Brazil 💚, **40 years old** 👶🏻
 
 **Programming and markup languages**  
 
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/css3.svg"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/html5.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg" title="PHP"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg" title="Javascript"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/css3.svg" title="CSS3"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/html5.svg" ="HTML5"></code>
 
 **Development Tools**  
 
