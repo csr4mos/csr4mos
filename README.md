@@ -1,8 +1,9 @@
 ```php
 <?php
+
   echo 'Hello World, I'm Cristiano Ramos !';
 
-?>
+
 ```
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" ="Meu Perfil no Linkedin">
@@ -22,14 +23,7 @@
 ---- 
 
 Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚.
-
-**Gosto de ler livros de empreendedorismo** 📕, **ouço hip hop** 🎸 e de vez em quando tento passar alguma **fase** 🎮 do **Mario World** 🗡. 
-
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
-
+Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1** .                          Nos finais de semana gosto de cozinhar
 ----
 
 **Programming and markup languages**  
