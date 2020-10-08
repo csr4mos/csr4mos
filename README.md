@@ -17,9 +17,7 @@
 
 ---- 
 
-Hi, I'm Cristiano Ramos, but you can call me **Cris**. 
-
-I'm a Front-end Typescript Developer from Brazil 💚, **40 years old** 👶🏻 and **7 years of coding** 🧐. 
+Meu nome é **Cristiano Ramos**, sou um jovem da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚. <br>Me apaixonei por informática, por volta dos anos 2000, quando comprei meu primeiro PC. Era um glorioso K6II 500MHZ com 64 MB de memória, uma máquina pra época.  👶🏻 and **7 years of coding** 🧐. 
 
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
