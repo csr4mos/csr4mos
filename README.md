@@ -6,13 +6,16 @@
 ```
 ---- 
 
-> Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
+Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
 
-> Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1**. 
+Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1**. 
 
-> Nos finais de semana gosto de cozinhar.
+Nos finais de semana gosto de cozinhar.
 
 ----
+
+
+
 **Encontre-me nas Redes Sociais**  
 
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
@@ -28,7 +31,10 @@
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email">
 </a>
 
-</br>
+
+
+----
+
 
 **Linguagens de Programação e de Marcação**  
 
@@ -37,6 +43,8 @@
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/css3.svg" title="CSS3"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/html5.svg" title="HTML5"></code>
 
+----
+
 **Ferramentas de Desenvolvimento**  
 
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
@@ -44,6 +52,7 @@
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
+
 
 
 ----
