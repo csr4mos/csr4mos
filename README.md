@@ -6,32 +6,35 @@
 ```
 ---- 
 
-Meu nome é **Cristiano Ramos**, sou um jovem designer e programador web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
+Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do Brasil 💚 .
 
-Quando não estou **Gerenciando Projetos, programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música "velha" na **Antena 1**. 
+Quando não estou **Gerenciando Projetos**, **programando**,  ou lendo documentações de **softwares** 📕, ouço um pouco de música na **Antena 1**. 
 
 Nos finais de semana gosto de cozinhar.
 
-----
-
-
-
-**Encontre-me nas Redes Sociais**  
-
+<code>
 <a target="_blank" href="https://www.linkedin.com/in/csramos/">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" ="Meu Perfil no Linkedin">
 </a>
+</code>
+
+<code>
 <a target="_blank" href="https://www.behance.net/CSR4mos">
   <img height="36" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/behance.svg" ="Meu Perfil no Behance">
 </a>
+</code>  
+
+<code>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5551998866296">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/whatsapp.svg" title="Chame no WhatsApp">
 </a>
+</code>
+
+<code>
 <a target="_blank" href="mailto:csramos.poa@gmail.com">
   <img height="36" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email">
 </a>
-
-
+</code>
 
 ----
 
@@ -45,10 +48,10 @@ Nos finais de semana gosto de cozinhar.
 
 ----
 
-**Ferramentas de Desenvolvimento**  
+**Ferramentas de Desenvolvimento e Gestão de Projetos**  
 
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/bitbucket.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg"></code>
