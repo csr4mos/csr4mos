@@ -8,9 +8,7 @@
 
 Meu nome é **Cristiano Ramos**, sou um jovem **designer** e **programador** web, da geração dos anos **80**, moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span>.
 
-Quando não estou **Gerenciando Projetos**, lendo, escrevendo documentação de **softwares** ou **programando**,  ouço um pouco de música dos ano **70,80,90**, novidades e lançamentos de **hip hop** no Youtube e mantenho-me infomado sobre **notícias** do dia-a-dia e **do esporte**, na minha rádio preferida. 
-
-Nos finais de semana gosto de cozinhar ou assar um bom churrasco. 
+Quando não estou **Gerenciando Projetos**, lendo, escrevendo documentação de **softwares** ou **programando**,  ouço um pouco de música e mantenho-me infomado sobre **notícias** do dia-a-dia e **do esporte**, no rádio e/ou internet.  
 
 Quer saber mais sobre o meu perfil profissional ? Visita o meu Currículo no <code><a target="_blank" href="https://www.linkedin.com/in/csramos/"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" title="Meu Currículo no Linkedin"></a></code>, e o meu Portfólio no <code><a target="_blank" href="https://www.behance.net/CSR4mos"><img height="18" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/behance.svg" title="Meu Perfil no Behance"></a>.</code>  
 
