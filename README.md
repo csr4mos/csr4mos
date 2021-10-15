@@ -12,7 +12,7 @@ Quer saber mais sobre o meu perfil profissional ? Visita o meu Currículo no <co
 
 **Tem algum projeto web e precisa de um profissional, para assessoria no desenvolvimento ?**  
 
-Entre em contato, chame no WhatsApp : <code><a href="https://wa.me/5551998866296?text=Ol&aacute;,&nbsp;tenho&nbsp;um&nbsp;projeto&nbsp;web&nbsp;e&nbsp;estou&nbsp;interessado(a)&nbsp;nos&nbsp;seus&nbsp;servi&ccedil;os" title="Chame no Whatsapp"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/whatsapp.svg" title="Chame no WhatsApp"></a></code> ou mande um email : <code><a target="_blank" href="mailto:csramos.poa@gmail.com"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email"></a></code>
+Entre em contato, chame no WhatsApp : <code><a href="https://wa.me/5551999118413?text=Ol&aacute;,&nbsp;tenho&nbsp;um&nbsp;projeto&nbsp;web&nbsp;e&nbsp;estou&nbsp;interessado(a)&nbsp;nos&nbsp;seus&nbsp;servi&ccedil;os" title="Chame no Whatsapp"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/whatsapp.svg" title="Chame no WhatsApp"></a></code> ou mande um email : <code><a target="_blank" href="mailto:csramos.poa@gmail.com"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email"></a></code>
 
 ----
 
