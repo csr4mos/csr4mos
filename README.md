@@ -6,7 +6,7 @@
 ```
 ---- 
 
-Meu nome é **Cristiano Ramos**, sou **designer** e **programador** web, e moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span>.
+Olá, meu nome é **Cristiano Ramos**, sou **designer** e **programador** web, e moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span>.
 
 Quer saber mais sobre o meu perfil profissional ? Visita o meu Currículo no <code><a target="_blank" href="https://www.linkedin.com/in/csramos/"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" title="Meu Currículo no Linkedin"></a></code>, e o meu Portfólio no <code><a target="_blank" href="https://www.behance.net/CSR4mos"><img height="18" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/behance.svg" title="Meu Perfil no Behance"></a>.</code>  
 
