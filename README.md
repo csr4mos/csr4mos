@@ -7,13 +7,6 @@
 ---- 
 
 Olá, meu nome é **Cristiano Ramos**, sou **designer** e **programador** web, e moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span> e ajudo , autônomos e empresas a marcarem presença na web, desenvolvendo sites e sistemas web responsivos que geram valor aos seus negócios.
-
-Quer saber mais sobre o meu perfil profissional ? Visita o meu Currículo no <code><a target="_blank" href="https://www.linkedin.com/in/csramos/"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" title="Meu Currículo no Linkedin"></a></code>, e o meu Portfólio no <code><a target="_blank" href="https://www.behance.net/CSR4mos"><img height="18" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/behance.svg" title="Meu Perfil no Behance"></a>.</code>  
-
-**Tem algum projeto web e precisa de um profissional, para assessoria no desenvolvimento ?**  
-
-Entre em contato, chame no WhatsApp : <code><a href="https://wa.me/5551999118413?text=Ol&aacute;,&nbsp;tenho&nbsp;um&nbsp;projeto&nbsp;web&nbsp;e&nbsp;estou&nbsp;interessado(a)&nbsp;nos&nbsp;seus&nbsp;servi&ccedil;os" title="Chame no Whatsapp"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/whatsapp.svg" title="Chame no WhatsApp"></a></code> ou mande um email : <code><a target="_blank" href="mailto:desenvolvimento@genezzis.com"><img height="18" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope-open-text.svg" title="Envie um email"></a></code>
-
 ----
 
 
