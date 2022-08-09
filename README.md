@@ -6,7 +6,7 @@
 ```
 ---- 
 
-Olá, meu nome é **Cristiano Ramos**, sou **designer** e **programador** web, e moro na capital mais ao sul do <span>&#x1f1e7;&#x1f1f7;</span> e ajudo , autônomos e empresas a marcarem presença na web, desenvolvendo sites e sistemas web responsivos que geram valor aos seus negócios.
+<h3>Em constante aprendizado !
 ----
 
 
