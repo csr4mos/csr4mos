@@ -1,11 +1,3 @@
-```php
-<?php
-
-  echo 'Hello World, I'm Cristiano Ramos !';
-
-```
----- 
-
 <h3>Em constante aprendizado !
 
 
