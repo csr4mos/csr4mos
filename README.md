@@ -18,7 +18,6 @@
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/trello.svg" title="Trello"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/bitbucket.svg" title="Bitbucket"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" title="Github"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/docker.svg" title="Docker"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/centos.svg" title="CentOS"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/cpanel.svg" title="cPanel"></code>
 
