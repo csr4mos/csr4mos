@@ -4,7 +4,6 @@
 
 **Linguagens de Programação e de Marcação**  
 
-<code><img height="36" src="https://raw.githubusercontent.com/bcosca/fatfree/master/ui/images/logo.png" title="Fat Free Framework"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/php.svg" title="PHP"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/js.svg" title="Javascript"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/css3.svg" title="CSS3"></code>
