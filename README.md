@@ -31,32 +31,4 @@
 ### 📈 Estatísticas do GitHub
 
 [![Cristiano GitHub stats](https://github-stats-extended.vercel.app/api?username=csr4mos)](https://github.com/stats-organization/github-stats-extended)
-
-## Card Types
-
-- Show your GitHub statistics:
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=csr4mos&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api?username=csr4mos&theme=light_github" alt="Cristiano GitHub stats" />
-  </picture>
-
-- 
-
-
-
-- Pin Gists in your GitHub profile:
-
-  <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=light_github_repocard" alt="Gist Card" />
-    </picture>
-  </a>
 ---
