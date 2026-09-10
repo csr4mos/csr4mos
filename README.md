@@ -30,12 +30,6 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csr4mos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csr4mos&layout=compact&theme=radical&hide_border=true" />
-</p>
+[![Cristiano GitHub stats](https://github-stats-extended.vercel.app/api?username=csr4mos)](https://github.com/stats-organization/github-stats-extended)
 
 ---
