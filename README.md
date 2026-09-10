@@ -26,4 +26,16 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
-![Cristiano GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr4mos&show_icons=true)
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csr4mos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csr4mos&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
