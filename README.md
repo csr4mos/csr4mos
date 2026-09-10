@@ -41,42 +41,12 @@
       srcset="https://github-stats-extended.vercel.app/api?username=csr4mos&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=csr4mos&theme=light_github" alt="Anurag's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=csr4mos&theme=light_github" alt="Cristiano GitHub stats" />
   </picture>
 
-- ...your top languages...:
+- 
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=csr4mos&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=csr4mos&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
 
-- ...and development time:
-
-  <a href="https://wakatime.com/@alan">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/wakatime?username=csr4mos&langs_count=6&theme=dark_github"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=csr4mos&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
-    </picture>
-  </a>
-
-- Pin more than 6 repos in your GitHub profile:
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=csr4mos&repo=github-readme-stats&theme=dark_github_repocard"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=csr4mos&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
-    </picture>
-  </a>
 
 - Pin Gists in your GitHub profile:
 
